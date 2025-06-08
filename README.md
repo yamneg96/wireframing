@@ -67,3 +67,34 @@ Several tools can be used for wireframing, each with distinct advantages:
 Figma is particularly powerful due to its ease of use and team-friendly environment.
 
 ---
+
+## 4. Benefits of Wireframing in Software Development
+
+Wireframing offers many advantages during the software development process:
+
+- **Guides the UI/UX workflow:** Developers can implement layout and logic based on visual references.
+- **Improves Communication:** Designers, developers, and stakeholders can align early using visual references.
+- **Reduces Development Time:** Early feedback leads to fewer redesigns during coding.
+- **Clarifies Features:** Wireframes clarify what each component on the screen is meant to do.
+
+**Example:** A signup form in a wireframe clarifies input fields and button placement before any backend logic is implemented.
+
+---
+
+## 5. Wireframing in Practice
+
+### Real-World Scenario:
+During the redesign of a university portal, the wireframe revealed that important actions like "View Grades" and "Course Registration" were hidden under unrelated menus.
+
+- **Identified Issue:** Usability testing with the wireframe showed users struggled to find key tasks.
+- **Resolution:** The layout was adjusted to place these features prominently on the dashboard.
+
+### Impact on Final Product:
+- Reduced user complaints.
+- Increased engagement and successful task completion.
+- Saved weeks of development that would have been spent refactoring a flawed UI.
+
+### Summary:
+Wireframing serves as a planning blueprint that identifies usability flaws early, saving time and improving product quality in the long run.
+
+---
