@@ -49,3 +49,21 @@ Each element ensures the design meets user needs while maintaining usability and
 This README itself is part of a **low-fidelity wireframe**: it focuses on structure and planning before any visual design is created.
 
 ---
+
+## 3. Wireframing Tools
+
+Several tools can be used for wireframing, each with distinct advantages:
+
+- **Figma** (Recommended)
+  - Cloud-based design tool with real-time collaboration.
+  - Features include drag-and-drop UI components, version control, and team commenting.
+  - Great for both low-fidelity and high-fidelity wireframes.
+  
+- **Other Tools**
+  - Balsamiq: Best for quick low-fi sketches.
+  - Adobe XD: Good for higher-fidelity UI design and prototyping.
+  - Sketch: Mac-based tool with a rich design system.
+
+Figma is particularly powerful due to its ease of use and team-friendly environment.
+
+---
