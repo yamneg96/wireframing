@@ -17,4 +17,35 @@ Wireframes consist of several key elements that shape the user interface:
 ### 1. Layout Structure
 - This defines the visual hierarchy and spatial arrangement of components on a page.
 - **Example:** Grid-based layout that arranges content into rows and columns for consistency.
+### 2. Navigation
+- Illustrates how users will move between screens or pages.
+- **Example:** Top nav bar or sidebar with labeled buttons for Home, About, and Contact.
 
+### 3. Content Placement
+- Indicates where text, images, videos, and interactive elements will appear.
+- **Example:** Placeholder boxes marked “Image” or “Heading” denote content positioning.
+
+### 4. Functionality
+- Shows basic interactions such as buttons, forms, and links.
+- **Example:** A “Submit” button beneath a contact form.
+
+Each element ensures the design meets user needs while maintaining usability and efficiency.
+
+---
+
+## 2. Types of Wireframes
+
+### Low-Fidelity Wireframes
+- Simple sketches or digital outlines with minimal detail.
+- Focus on structure and layout rather than visuals.
+- **Use Case:** Early-stage brainstorming, stakeholder approval before visual design begins.
+
+### High-Fidelity Wireframes
+- More detailed and polished representations.
+- Include font choices, image placeholders, and interactive behavior (clickable areas).
+- **Use Case:** Used just before prototyping to closely mimic final UI.
+
+### Type of Wireframe Used Here
+This README itself is part of a **low-fidelity wireframe**: it focuses on structure and planning before any visual design is created.
+
+---
